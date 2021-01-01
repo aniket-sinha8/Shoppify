@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Shoppify/static/css/main.cf24f609.chunk.css",
+    "main.js": "/Shoppify/static/js/main.1748b0eb.chunk.js",
+    "main.js.map": "/Shoppify/static/js/main.1748b0eb.chunk.js.map",
+    "runtime-main.js": "/Shoppify/static/js/runtime-main.290870d4.js",
+    "runtime-main.js.map": "/Shoppify/static/js/runtime-main.290870d4.js.map",
+    "static/js/2.c7048d6e.chunk.js": "/Shoppify/static/js/2.c7048d6e.chunk.js",
+    "static/js/2.c7048d6e.chunk.js.map": "/Shoppify/static/js/2.c7048d6e.chunk.js.map",
+    "index.html": "/Shoppify/index.html",
+    "static/css/main.cf24f609.chunk.css.map": "/Shoppify/static/css/main.cf24f609.chunk.css.map",
+    "static/js/2.c7048d6e.chunk.js.LICENSE.txt": "/Shoppify/static/js/2.c7048d6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.290870d4.js",
+    "static/js/2.c7048d6e.chunk.js",
+    "static/css/main.cf24f609.chunk.css",
+    "static/js/main.1748b0eb.chunk.js"
+  ]
+}
