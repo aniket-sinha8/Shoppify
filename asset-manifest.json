@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/shoppify/static/css/main.cf24f609.chunk.css",
-    "main.js": "/shoppify/static/js/main.8a617e0c.chunk.js",
-    "main.js.map": "/shoppify/static/js/main.8a617e0c.chunk.js.map",
-    "runtime-main.js": "/shoppify/static/js/runtime-main.6c8e587b.js",
-    "runtime-main.js.map": "/shoppify/static/js/runtime-main.6c8e587b.js.map",
-    "static/js/2.c7048d6e.chunk.js": "/shoppify/static/js/2.c7048d6e.chunk.js",
-    "static/js/2.c7048d6e.chunk.js.map": "/shoppify/static/js/2.c7048d6e.chunk.js.map",
-    "index.html": "/shoppify/index.html",
-    "static/css/main.cf24f609.chunk.css.map": "/shoppify/static/css/main.cf24f609.chunk.css.map",
-    "static/js/2.c7048d6e.chunk.js.LICENSE.txt": "/shoppify/static/js/2.c7048d6e.chunk.js.LICENSE.txt"
+    "main.css": "/Shoppify/static/css/main.cf24f609.chunk.css",
+    "main.js": "/Shoppify/static/js/main.8a617e0c.chunk.js",
+    "main.js.map": "/Shoppify/static/js/main.8a617e0c.chunk.js.map",
+    "runtime-main.js": "/Shoppify/static/js/runtime-main.290870d4.js",
+    "runtime-main.js.map": "/Shoppify/static/js/runtime-main.290870d4.js.map",
+    "static/js/2.c7048d6e.chunk.js": "/Shoppify/static/js/2.c7048d6e.chunk.js",
+    "static/js/2.c7048d6e.chunk.js.map": "/Shoppify/static/js/2.c7048d6e.chunk.js.map",
+    "index.html": "/Shoppify/index.html",
+    "static/css/main.cf24f609.chunk.css.map": "/Shoppify/static/css/main.cf24f609.chunk.css.map",
+    "static/js/2.c7048d6e.chunk.js.LICENSE.txt": "/Shoppify/static/js/2.c7048d6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c8e587b.js",
+    "static/js/runtime-main.290870d4.js",
     "static/js/2.c7048d6e.chunk.js",
     "static/css/main.cf24f609.chunk.css",
     "static/js/main.8a617e0c.chunk.js"
